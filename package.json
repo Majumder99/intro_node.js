@@ -10,6 +10,7 @@
   "author": "Sourav Majumder",
   "license": "ISC",
   "dependencies": {
+    "nodemailer": "^6.7.5",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
